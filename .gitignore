@@ -3,3 +3,4 @@ dist-install/
 dist/
 ghc.mk
 .stack-work/
+*.hs.bak
